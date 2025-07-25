@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="music_player">Music Player</string>
+    <string name="tablayout">TabLayout</string>
+    <string name="viewpager">ViewPager</string>
+    <string name="songs">Songs</string>
+    <string name="downloads">Downloads</string>
+    <string name="favourites">Favourites</string>
+    <string name="shuffle_card">Play Shuffled from this Playlist</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="search_hint">Search a Song</string>
+    <string name="no_favourites">No Favourites</string>
+    <string name="no_data">No Data</string>
+</resources>

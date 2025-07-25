@@ -1,0 +1,9 @@
+<!-- res/drawable/custom_thumb.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <size
+        android:width="14dp"
+        android:height="14dp"
+    />
+    <solid android:color="@color/secondary" />
+    <corners android:radius="8dp" />
+</shape>

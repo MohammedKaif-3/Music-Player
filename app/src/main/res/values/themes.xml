@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MusicPlayer" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MusicPlayer" parent="Base.Theme.MusicPlayer" />
+
+    <style name="roundimageview">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">5dp</item>
+        <item name="color">@color/primary</item>
+    </style>
+
+    <style name="roundimageview2">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+        <item name="color">@color/primary</item>
+    </style>
+    <style name="CustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item> <!-- Set your desired text size here -->
+    </style>
+    <style name="recyclerviewroundimageview">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">5dp</item>
+        <item name="color">@color/primary_background</item>
+    </style>
+    <!-- res/values/styles.xml -->
+    <style name="CustomSeekBar" parent="Widget.AppCompat.SeekBar">
+        <item name="android:minHeight">4dp</item> <!-- Set a smaller min height -->
+        <item name="android:maxHeight">4dp</item> <!-- Set a smaller max height -->
+        <item name="android:thumb">@drawable/player_custom_thumb</item>
+        <item name="android:progressDrawable">@drawable/player_custom_seekbar</item>
+    </style>
+
+    <style name="CustomNumberPickerText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FF5722</item>
+    </style>
+
+
+</resources>

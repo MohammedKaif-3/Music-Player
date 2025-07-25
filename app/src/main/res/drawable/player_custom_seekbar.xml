@@ -1,0 +1,31 @@
+<!-- res/drawable/custom_progress.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background track -->
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="2dp" />
+            <solid android:color="#4DFFFFFF" />
+            <size android:height="6dp"/> <!-- Reduced height -->
+        </shape>
+    </item>
+    <!-- Progress bar -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners android:radius="2dp" />
+                <solid android:color="#CCFFFFFF" />
+                <size android:height="6dp"/> <!-- Reduced height -->
+            </shape>
+        </clip>
+    </item>
+    <!-- Secondary progress -->
+    <item android:id="@android:id/secondaryProgress">
+        <clip>
+            <shape>
+                <corners android:radius="2dp" />
+                <solid android:color="#4DFFFFFF" />
+                <size android:height="6dp"/> <!-- Reduced height -->
+            </shape>
+        </clip>
+    </item>
+</layer-list>
