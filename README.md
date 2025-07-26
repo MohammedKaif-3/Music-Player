@@ -1,4 +1,4 @@
-# <img src="https://github.com/MohammedKaif-3/Music-Player/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.webp" /> Android Music Player App
+# <img src="https://github.com/MohammedKaif-3/Music-Player/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.webp" height=50 /> Android Music Player App
 
 A modern, responsive, and beautiful music player for Android devices. Built using Material Design, Glide, VLC, and more — designed for smooth performance and clean UI.
 
