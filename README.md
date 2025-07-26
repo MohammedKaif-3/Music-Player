@@ -14,6 +14,18 @@ A modern, responsive, and beautiful music player for Android devices. Built usin
 
 ---
 
+## 📸 Screenshots
+
+<div>
+   <img src="screenshots/musicplayer_5.jpg" alt="Img" height="300"/>
+   <img src="screenshots/musicplayer_1.jpg" alt="Img" height="300"/>
+   <img src="screenshots/musicplayer_6.jpg" alt="Img" height="300"/>
+   <img src="screenshots/musicplayer_3.jpg" alt="Img" height="300"/>
+   <img src="screenshots/musicplayer_2.jpg" alt="Img" height="300"/>
+</div>
+
+
+
 ## 🌟 Features
 
 - 🎧 High-quality local audio playback with VLC
