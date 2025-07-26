@@ -55,31 +55,11 @@ A modern, responsive, and beautiful music player for Android devices. Built usin
 
 ---
 
-## ⚙️ Getting Started
-
-1. Clone this repo:
-
-   ```bash
-   git clone https://github.com/MohammedKaif-3/Music-Player.git
-   ```
-
-2. Open the project in **Android Studio**
-
-3. Run the app on a device or emulator.
-
----
-
 ## 👨‍💻 Author
 
 Developed by **Mohammed Kaif**  
 Email: [mohammedzaif61@gmail.com](mailto:mohammedzaif61@gmail.com)  
 LinkedIn: [mohammedkaif003](https://www.linkedin.com/in/mohammedkaif003)  
 GitHub: [MohammedKaif-3](https://github.com/MohammedKaif-3)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
